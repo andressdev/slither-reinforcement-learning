@@ -1,0 +1,12 @@
+Ambiente: ler a tela
+
+Ações: Mover o mouse nas posições: cima, baixo, esquerda, direita, diagonal cima esquerda, diagonal cima direita, diagonal baixo esquerda, diagonal baixo direita, 
+clicar e segurar o mouse, soltar o click
+
+Objetivo: ter o maior comprimento possível
+
+
+
+Episódio: morreu
+
+Premiação: tamanho atual
